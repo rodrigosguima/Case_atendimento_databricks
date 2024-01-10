@@ -1,5 +1,7 @@
 # Case_atendimento_databricks
 Relatório trás informações sobre algumas métricas de atendimentos (CX)
+Dashboard feito no Databricks com programação em SQL
+
 
 1 - Qual o contact rate da Operação e o que você sugeriria para que ele reduzisse?
 
