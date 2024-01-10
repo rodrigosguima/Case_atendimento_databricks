@@ -1,5 +1,6 @@
 # Case_atendimento_databricks
-Com as informações disponíveis, você deverá realizar uma apresentação trazendo as seguintes informações: 
+Relatório trás informações sobre algumas métricas de atendimentos (CX)
+
 1 - Qual o contact rate da Operação e o que você sugeriria para que ele reduzisse?
 
 R.: Contact rate (taxa de contato) é uma taxa de contato do usuário com o atendimento, ou seja, é a "demanda atendida" em relação a "base de clientes ativos". 
