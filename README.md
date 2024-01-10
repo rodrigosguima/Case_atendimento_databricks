@@ -59,4 +59,4 @@ Ponto 4: Melhoria das documentações que os atendentes utilizam para resolver p
 Ponto 5: Criar chatbots/IA para automatizar tarefas repetitivas e que os clientes possam resolver os atendimentos sem intervenção humana;
 Ponto 6: Se basear em dados para identificar tendências, padrões e métricas que precisem de melhoria, ajustando continuamente as estratégias com base nos insights obtidos através desses dados de atendimento ao cliente.
 
-[CLIQUE AQUI PARA VER O DASHBOARD] (https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/4421081028949028/6665719610652/latest.html)
+[CLIQUE AQUI PARA VER O DASHBOARD](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6605712877054562/4421081028949028/6665719610652/latest.html)
